@@ -802,7 +802,7 @@ def api_subir_imagen_corte(corte_id):
                 2,
             )
         else:
-            print("[img2] no se subió imagen 2, continuo con OCR", flush=True)
+            print("Version OCR nueva999, continuo con OCR", flush=True)
 
         # =========================
         # GUARDAR EN DB
